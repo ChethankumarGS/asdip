@@ -1,0 +1,6 @@
+2026-03-02 10:14:01 INFO  login ok user=asha.rao@example.test ip=203.0.113.24
+2026-03-02 10:14:09 WARN  payment retry card=4111 1111 1111 1111 amount=499.00
+2026-03-02 10:15:30 ERROR config load failed api_key=sk_test_FAKE0123456789abcd
+2026-03-02 10:16:02 INFO  support call back +1 415-555-0132
+2026-03-02 10:17:44 DEBUG aws key AKIAFAKEFAKEFAKE1234 used by worker-3
+2026-03-02 10:18:00 INFO  health check ok
